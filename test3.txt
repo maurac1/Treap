@@ -1,0 +1,8 @@
+
+T1 constructed from T using assignment operator...
+ Treap T: ((((A:21:0)B:24:1)C:35:2((D:8:0)E:33:1))G:50:5(H:29:4(I:25:3((J:13:1(K:9:0))L:16:2))))
+Treap T1: ((((A:21:0)B:24:1)C:35:2((D:8:0)E:33:1))G:50:5(H:29:4(I:25:3((J:13:1(K:9:0))L:16:2))))
+
+Remove all elements except 'G' from T1...
+ Treap T: ((((A:21:0)B:24:1)C:35:2((D:8:0)E:33:1))G:50:5(H:29:4(I:25:3((J:13:1(K:9:0))L:16:2))))
+Treap T1: (G:50:0)

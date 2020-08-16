@@ -1,0 +1,66 @@
+===== TreapNode::dump()
+      this = 0x11d9e70
+      left = 0x11d9eb0
+      right= 0x11d9ef0
+      data = G
+      height = 5
+===== TreapNode::dump()
+      this = 0x11d9eb0
+      left = 0x11d9f30
+      right= 0x11d9f70
+      data = C
+      height = 2
+===== TreapNode::dump()
+      this = 0x11d9f30
+      left = 0x11d9ff0
+      right= 0
+      data = B
+      height = 1
+===== TreapNode::dump()
+      this = 0x11d9ff0
+      left = 0
+      right= 0
+      data = A
+      height = 0
+===== TreapNode::dump()
+      this = 0x11d9f70
+      left = 0x11da030
+      right= 0
+      data = E
+      height = 1
+===== TreapNode::dump()
+      this = 0x11da030
+      left = 0
+      right= 0
+      data = D
+      height = 0
+===== TreapNode::dump()
+      this = 0x11d9ef0
+      left = 0
+      right= 0x11d9fb0
+      data = H
+      height = 4
+===== TreapNode::dump()
+      this = 0x11d9fb0
+      left = 0
+      right= 0x11da070
+      data = I
+      height = 3
+===== TreapNode::dump()
+      this = 0x11da070
+      left = 0x11da0b0
+      right= 0
+      data = L
+      height = 2
+===== TreapNode::dump()
+      this = 0x11da0b0
+      left = 0
+      right= 0x11da0f0
+      data = J
+      height = 1
+===== TreapNode::dump()
+      this = 0x11da0f0
+      left = 0
+      right= 0
+      data = K
+      height = 0

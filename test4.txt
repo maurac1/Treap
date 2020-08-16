@@ -1,0 +1,13 @@
+
+Node at location 'LRL':
+    data = D
+     pri = 8
+  height = 0
+
+Node at location 'RRRL':
+    data = J
+     pri = 13
+  height = 1
+
+Node at location 'RRRL':
+  not found!
